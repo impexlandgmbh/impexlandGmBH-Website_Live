@@ -1,0 +1,7 @@
+IMPEX LAND WEBSITE
+
+1. Extract the ZIP file.
+2. Open the IMPEX_LAND_Website_Double_Click folder.
+3. Double-click index.html.
+
+The website runs directly in your browser. No Live Server, Python, Node.js or terminal command is required.
